@@ -3,7 +3,7 @@
 To build the assembly project, follow these steps:
 
 1. Open a terminal or command prompt.
-2. Navigate to the project directory.
+2. Navigate to the project directory (src\hello_world).
 3. Run the following command:
 
 ```
@@ -13,4 +13,4 @@ To build the assembly project, follow these steps:
 
 Replace `hello_world.asm` with the name of your assembly file.
 
-4. If the build is successful, an executable file named `your_file.exe` will be generated in the same directory.
+4. If the build is successful, an executable file named `hello_world.exe` will be generated in the same directory.
